@@ -27,4 +27,12 @@ a {
   a:hover {
     color: #ffffcc; }
 
+a {
+  color: #cccccc;
+  cursor: pointer;
+  text-decoration: underline; }
+  a:hover {
+    color: #ffffcc;
+    text-decoration: none; }
+
 /*# sourceMappingURL=style.css.map */
