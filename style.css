@@ -18,6 +18,13 @@ h1 {
   color: #ffffcc; }
 
 h3 {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  text-decoration: underline; }
+
+a {
+  text-decoration: none;
+  color: #cccccc; }
+  a:hover {
+    color: #ffffcc; }
 
 /*# sourceMappingURL=style.css.map */
