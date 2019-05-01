@@ -22,3 +22,12 @@ h1 {
 h3 {
     margin-bottom: 30px;
 }
+a {
+    color: #cccccc;
+    cursor: pointer;
+    text-decoration: underline;
+    &:hover {
+        color: #ffffcc;
+        text-decoration: none;
+    }
+}
