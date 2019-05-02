@@ -16,6 +16,7 @@ section {
 
 h1 {
   color: #ffffcc;
+  display: -ms-flexbox;
   display: flex; }
 
 h3 {
@@ -30,4 +31,4 @@ a {
     color: #ffffcc;
     text-decoration: none; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=prefixed.css.map */

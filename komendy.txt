@@ -1,8 +1,10 @@
-nu-html-checker
+nu-html-checker 
+
+node_modules/.bin/nu-html-checker *.html 
+node_modules/.bin/nu-html-checker --help 
 
 
+Autoprefixer 
 
-Autoprefixer node_modules/.bin/nu-html-checker --help
-CLI
-
-autoprefixer-cli node_modules/.bin/autoprefixer-cli --help
+node_modules/.bin/autoprefixer-cli -o prefixed.css style.css
+node_modules/.bin/autoprefixer-cli --help
