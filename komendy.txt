@@ -8,3 +8,10 @@ Autoprefixer
 
 node_modules/.bin/autoprefixer-cli -o prefixed.css style.css
 node_modules/.bin/autoprefixer-cli --help
+
+
+html-validator-cli
+
+node_modules/.bin/html-validator <url>
+node_modules/.bin/html-validator --file=<path-to-file>
+
